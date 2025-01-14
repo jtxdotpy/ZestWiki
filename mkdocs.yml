@@ -2,33 +2,33 @@ site_name: ZestWiki
 nav:
   - 首页: index.md
   - 论文与写作:
-    - 文献阅读和管理: paperreading.md
-    - 学术论文写作: writing.md
-    - 期刊与会议: conferenceandjournal.md
+    - 文献阅读和管理: paper/reading.md
+    - 学术论文写作: paper/writing.md
+    - 期刊与会议: paper/conference.md
   - 通用知识:
-    - 英文学习: english.md
-    - R语言: R.md
-    - Python: python.md
-    - 统计: statistics.md
-    - 服务器使用: server.md
+    - 英文学: general/english.md
+    - R语言: general/r.md
+    - Python: general/python.md
+    - 统计: general/statistics.md
+    - 服务器使用: general/server.md
   - 社会科学: 
-    - 社会科学理论: theory.md
-    - 量化社会科学方法: social science.md
+    - 社会科学理论: ss/theory.md
+    - 量化社会科学方法: ss/method.md
   - 计算机科学:
-    - 传统机器学习: computer science.md
-    - 计算机视觉: cs.md
-    - 自然语言处理: nlp.md
-    - 大语言模型: llm.md
+    - 传统机器学习: cs/ml.md
+    - 计算机视觉: cs/cv.md
+    - 自然语言处理: cs/nlp.md
+    - 大语言模型: cs/llm.md
     - 其他:
-      - 推荐系统: recommend.md
-      - 时序预测: time_series.md
-      - 强化学习: reinforcement_learning.md
+      - 推荐系统: cs/recommend.md
+      - 时序预测: cs/time.md
+      - 强化学习: cs/rl.md
   # - 实验室管理:
   #   - 守则: 实验室管理.md
   #   - 财务报销流程: 财务报销流程.md
   - tips:
-    - 留学申请: phd.md
-    - 秋招: work.md
+    - 留学申请: tips/phd.md
+    - 秋招: tips/work.md
 # site_url: http://127.0.0.1:8000
 theme:
   name: material
