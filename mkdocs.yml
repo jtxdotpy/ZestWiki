@@ -1,6 +1,7 @@
 site_name: ZestWiki
 nav:
   - 首页: index.md
+  - Zest组: general/zestIntroduction.md
   - 论文与写作:
     - 文献阅读和管理: paper/reading.md
     - 学术论文写作: paper/writing.md
