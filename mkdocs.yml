@@ -16,7 +16,7 @@ nav:
     - 社会科学理论: ss/theory.md
     - 量化社会科学方法: ss/method.md
   - 计算机科学:
-    - 传统机器学习: cs/ml.md
+    - 传统机器&深度学习: cs/ml.md
     - 计算机视觉: cs/cv.md
     - 自然语言处理: cs/nlp.md
     - 大语言模型: cs/llm.md
