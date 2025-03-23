@@ -27,6 +27,9 @@ nav:
   # - 实验室管理:
   #   - 守则: 实验室管理.md
   #   - 财务报销流程: 财务报销流程.md
+  - 生活&课外:
+    - 生活: after class/life.md
+    - 学习心得: after class/study.md
   - tips:
     - 留学申请: tips/phd.md
     - 秋招: tips/work.md
