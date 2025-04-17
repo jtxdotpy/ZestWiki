@@ -6,9 +6,9 @@
 - **A* (顶级会议)**  
   - 领域内顶尖会议，论文录用率通常低于20%，代表最高学术水平。  
   - 例：  
-    - **AI/ML**: NeurIPS, ICML, ICLR  
+    - **AI/ML**: NeurIPS, ICML, ICLR, KDD, AAAI, IJCAI, TKDE,ICML
     - **系统**: SOSP, OSDI  
-    - **网络**: SIGCOMM, INFOCOM  
+    - **网络**: WWW, WSDM, SIGCOMM, INFOCOM  
 
 - **A (一流会议)**  
   - 国际知名会议，学术影响力大，录用率约20-30%。  
